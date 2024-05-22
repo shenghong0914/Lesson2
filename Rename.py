@@ -2,7 +2,7 @@
 import os
 
 # 設定存放檔案的資料夾路徑
-folder_path = 'C:\\Users\\PearlWu\\Documents\\PythonProject\\Projects100\\LV2\\OperateFiles\\Rename\\images'
+folder_path = 'C:\Users\hankw\OneDrive\桌面\python_code\Lesson2\images'
 
 # 列出資料夾中的檔案並進行批次處理
 for filename in os.listdir(folder_path):
@@ -16,7 +16,7 @@ for filename in os.listdir(folder_path):
 # 批次處理完成
 print("已完成。")
 
-print ("hihi")
+
 
 
 
