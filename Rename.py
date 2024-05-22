@@ -14,4 +14,9 @@ for filename in os.listdir(folder_path):
     os.rename(f"{folder_path}\\{filename}", f"{folder_path}\\{new_filename}")
 
 # 批次處理完成
-print("批次處理已完成。")
+print("已完成。")
+
+print ("hihi")
+
+
+
